@@ -13,7 +13,6 @@ x.sort() => ["a","b","c"]
 ## 大小寫
 ```
 x="ABcd"
-x.is
 x.lower() 變小寫
 x.upper() 變大寫
 x.isupper() 是不是大寫
